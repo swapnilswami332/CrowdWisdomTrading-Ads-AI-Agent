@@ -1,0 +1,276 @@
+{
+  "success": true,
+  "message": "Successfully generated video plan",
+  "video_plan": {
+    "title": "Video Plan for E-commerce",
+    "total_duration": 60,
+    "resolution": "1920x1080",
+    "frame_rate": 30,
+    "format": "vertical (9:16) for Reels/TikTok",
+    "scenes": [
+      {
+        "scene_id": 1,
+        "time_start": 0,
+        "time_end": 5,
+        "duration": 5,
+        "scene_type": "hook",
+        "background": {
+          "type": "solid_color",
+          "color": "#1a1a2e",
+          "gradient": null
+        },
+        "visuals": {
+          "main_element": {
+            "type": "text",
+            "content": "STOP WASTING MONEY",
+            "style": "bold_headline",
+            "animation": "fade_in_scale"
+          },
+          "secondary": {
+            "type": "emoji",
+            "content": "💸",
+            "animation": "bounce"
+          }
+        },
+        "voiceover": {
+          "text": "Stop wasting thousands on ads that never convert?",
+          "voice": "professional_male",
+          "speed": 1.0
+        },
+        "subtitles": {
+          "lines": [
+            "Stop wasting thousands",
+            "on ads that never convert?"
+          ],
+          "style": "bottom_center",
+          "background": "semi_transparent_black"
+        },
+        "music": {
+          "track": "upbeat_electronic",
+          "volume": 0.3,
+          "fade_in": true
+        },
+        "effects": [
+          "slight_shake",
+          "red_tint"
+        ]
+      },
+      {
+        "scene_id": 2,
+        "time_start": 5,
+        "time_end": 15,
+        "duration": 10,
+        "scene_type": "problem_agitation",
+        "background": {
+          "type": "gradient",
+          "colors": [
+            "#1a1a2e",
+            "#16213e"
+          ],
+          "direction": "diagonal"
+        },
+        "visuals": {
+          "main_element": {
+            "type": "split_screen",
+            "left": {
+              "text": "TRADITIONAL",
+              "icon": "❌"
+            },
+            "right": {
+              "text": "AI POWERED",
+              "icon": "✅"
+            },
+            "animation": "slide_in"
+          }
+        },
+        "voiceover": {
+          "text": "What if you could predict exactly what your customers want? Our AI analyzes millions of data points to create perfect ads.",
+          "voice": "professional_male",
+          "speed": 1.0
+        },
+        "subtitles": {
+          "lines": [
+            "What if you could predict",
+            "exactly what customers want?"
+          ],
+          "style": "bottom_center"
+        },
+        "music": {
+          "track": "tension_build",
+          "volume": 0.4
+        },
+        "effects": []
+      },
+      {
+        "scene_id": 3,
+        "time_start": 15,
+        "time_end": 30,
+        "duration": 15,
+        "scene_type": "solution_demo",
+        "background": {
+          "type": "video_placeholder",
+          "description": "Montage of AI processing"
+        },
+        "visuals": {
+          "main_element": {
+            "type": "process_steps",
+            "steps": [
+              {
+                "icon": "📝",
+                "text": "Enter Product"
+              },
+              {
+                "icon": "🤖",
+                "text": "AI Analyzes"
+              },
+              {
+                "icon": "🎬",
+                "text": "Get Ads"
+              }
+            ],
+            "animation": "sequential_reveal"
+          }
+        },
+        "voiceover": {
+          "text": "No more guesswork. Just enter your product, and get professional ads in minutes. Join 10,000+ businesses already growing.",
+          "voice": "professional_male",
+          "speed": 1.0
+        },
+        "subtitles": {
+          "lines": [
+            "Enter product → AI analyzes → Get ads"
+          ],
+          "style": "bottom_center"
+        },
+        "music": {
+          "track": "inspiring_beat",
+          "volume": 0.5
+        },
+        "effects": [
+          "smooth_transition"
+        ]
+      },
+      {
+        "scene_id": 4,
+        "time_start": 30,
+        "time_end": 45,
+        "duration": 15,
+        "scene_type": "social_proof",
+        "background": {
+          "type": "solid_color",
+          "color": "#0f3460"
+        },
+        "visuals": {
+          "main_element": {
+            "type": "testimonial_cards",
+            "testimonials": [
+              {
+                "name": "Sarah",
+                "result": "3x ROI",
+                "business": "E-commerce"
+              },
+              {
+                "name": "Mark",
+                "result": "+100% Conversions",
+                "business": "SaaS"
+              }
+            ],
+            "animation": "card_flip"
+          }
+        },
+        "voiceover": {
+          "text": "Sarah from e-commerce saw 3x ROI in 30 days. Mark doubled his conversions. You can too.",
+          "voice": "professional_male",
+          "speed": 1.0
+        },
+        "subtitles": {
+          "lines": [
+            "Sarah: 3x ROI",
+            "Mark: +100% Conversions"
+          ],
+          "style": "bottom_center"
+        },
+        "music": {
+          "track": "success_moment",
+          "volume": 0.6
+        },
+        "effects": [
+          "celebration_particles"
+        ]
+      },
+      {
+        "scene_id": 5,
+        "time_start": 45,
+        "time_end": 60,
+        "duration": 15,
+        "scene_type": "cta",
+        "background": {
+          "type": "gradient",
+          "colors": [
+            "#2563EB",
+            "#7C3AED"
+          ],
+          "direction": "radial"
+        },
+        "visuals": {
+          "main_element": {
+            "type": "button",
+            "text": "START FREE TRIAL",
+            "style": "prominent_cta",
+            "animation": "pulse"
+          },
+          "secondary": {
+            "type": "text",
+            "content": "No credit card required",
+            "style": "subtitle"
+          }
+        },
+        "voiceover": {
+          "text": "Start your free trial today. No credit card required. Transform your marketing in just 60 seconds.",
+          "voice": "professional_male",
+          "speed": 1.0
+        },
+        "subtitles": {
+          "lines": [
+            "START FREE TRIAL",
+            "No credit card required"
+          ],
+          "style": "bottom_center"
+        },
+        "music": {
+          "track": "finale_beat",
+          "volume": 0.7,
+          "fade_out": true
+        },
+        "effects": [
+          "confetti"
+        ]
+      }
+    ],
+    "technical_specs": {
+      "remotion_composition": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "audio": {
+        "voiceover_format": "mp3",
+        "music_format": "mp3",
+        "total_audio_tracks": 2
+      },
+      "export": {
+        "format": "mp4",
+        "codec": "h264",
+        "quality": "high"
+      }
+    },
+    "production_notes": [
+      "Use stock footage for scene backgrounds",
+      "Record voiceover with professional voice actor",
+      "Add subtle animations to text elements",
+      "Include brand colors in CTA scene",
+      "Test on mobile devices before final export"
+    ]
+  },
+  "timestamp": "2026-04-30T10:30:15Z"
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "message": "Found 5 top-performing ads",
+  "ads_found": 5,
+  "ads": [
+    {
+      "ad_id": "ad_001",
+      "platform": "Meta",
+      "ad_title": "Transform Your E-commerce Business",
+      "ad_copy": "Stop struggling with outdated marketing. Our AI-powered solution helps you create high-converting ads in minutes. Join 10,000+ businesses already using our platform.",
+      "creative_type": "video",
+      "impressions": 1250000,
+      "reach": 890000,
+      "engagement_rate": 3.2,
+      "created_date": "2026-04-15",
+      "duration_seconds": 15,
+      "hook": "Stop wasting money on ads that don't convert",
+      "cta": "Start Free Trial"
+    },
+    {
+      "ad_id": "ad_002",
+      "platform": "Meta",
+      "ad_title": "The Secret to E-commerce Success",
+      "ad_copy": "What if you could predict your customer's next move? Our AI analyzes millions of data points to give you the exact ads that will convert. No guesswork, just results.",
+      "creative_type": "carousel",
+      "impressions": 980000,
+      "reach": 720000,
+      "engagement_rate": 2.8,
+      "created_date": "2026-04-20",
+      "duration_seconds": 0,
+      "hook": "The secret algorithm doesn't want you to know",
+      "cta": "Get Started"
+    },
+    {
+      "ad_id": "ad_003",
+      "platform": "Meta",
+      "ad_title": "E-commerce? Here's What Actually Works",
+      "ad_copy": "Forget everything you think you know about marketing. The new way is here. AI-generated ads that speak directly to your customer's pain points. See the difference today.",
+      "creative_type": "image",
+      "impressions": 2100000,
+      "reach": 1500000,
+      "engagement_rate": 4.1,
+      "created_date": "2026-04-25",
+      "duration_seconds": 0,
+      "hook": "Everything you thought you knew is wrong",
+      "cta": "Try It Free"
+    },
+    {
+      "ad_id": "ad_004",
+      "platform": "Meta",
+      "ad_title": "Finally! An E-commerce Solution That Works",
+      "ad_copy": "After 10 years of testing, we found the perfect formula. Now we're giving it to you for free. No credit card required. Just pure, proven results.",
+      "creative_type": "video",
+      "impressions": 1750000,
+      "reach": 1200000,
+      "engagement_rate": 3.8,
+      "created_date": "2026-04-28",
+      "duration_seconds": 30,
+      "hook": "After 10 years, we cracked the code",
+      "cta": "Claim Your Free Access"
+    },
+    {
+      "ad_id": "ad_005",
+      "platform": "Meta",
+      "ad_title": "Don't Buy E-commerce Until You Read This",
+      "ad_copy": "Warning: This will change how you see marketing forever. 87% of businesses are doing it wrong. Be in the 13% that actually profit.",
+      "creative_type": "video",
+      "impressions": 890000,
+      "reach": 650000,
+      "engagement_rate": 2.5,
+      "created_date": "2026-04-10",
+      "duration_seconds": 45,
+      "hook": "Warning: Don't make this mistake",
+      "cta": "Learn More"
+    }
+  ],
+  "timestamp": "2026-04-30T10:30:00Z"
+}

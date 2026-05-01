@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+#crewai==1.14.x
+openrouter
+apify
+
+python-dotenv
